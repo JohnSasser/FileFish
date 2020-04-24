@@ -1,8 +1,8 @@
 
 
-<p align="center">
+<p align="center" style="font-size: 45px">
   <!-- <b>Visit Live Site</b><br> -->
-  <a href="https://file-fish.herokuapp.com/" style="font-size: 45px">
+  <a href="https://file-fish.herokuapp.com/">
   File Fish
   </a> 
   <br><br>
