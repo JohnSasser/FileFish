@@ -2,8 +2,8 @@
 
 <p align="center">
   <!-- <b>Visit Live Site</b><br> -->
-  <a href="https://file-fish.herokuapp.com/">
-    <p style="font-size: 45px"> File Fish </P>
+  <a href="https://file-fish.herokuapp.com/" style="font-size: 45px">
+  File Fish
   </a> 
   <br><br>
   <img src="public/img/fileFish-dashboard.png">
