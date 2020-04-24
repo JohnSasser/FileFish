@@ -2,7 +2,7 @@
 
 <p align="center" style="font-size: 45px">
   <!-- <b>Visit Live Site</b><br> -->
-  <a href="https://file-fish.herokuapp.com/">
+  <a href="https://file-fish.herokuapp.com/" target="blank">
   File Fish
   </a> 
   <br><br>
